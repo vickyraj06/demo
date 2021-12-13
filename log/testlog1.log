@@ -1,0 +1,103 @@
+2021-11-24 11:51:29,071 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 11:51:31,127 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 11:51:31,153 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 11:51:31,343 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 11:51:31,411 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 11:51:37,681 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 11:51:37,720 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-11-24 11:51:37,722 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-11-24 11:51:37,977 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 11:56:36,311 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 11:56:38,271 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 11:56:38,296 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 11:56:38,518 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 11:56:38,599 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 11:56:44,745 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 11:56:45,605 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 11:59:18,062 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 11:59:20,028 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 11:59:20,049 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 11:59:20,257 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 11:59:20,339 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 11:59:27,145 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 11:59:27,185 [main] ERROR DemoProject.TestCases.BaseClass - TITLE NOT MATCHING -- FAILED
+2021-11-24 11:59:27,430 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 12:01:12,495 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 12:01:14,522 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 12:01:14,543 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 12:01:14,753 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 12:01:14,841 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 12:01:20,925 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 12:01:20,932 [main] ERROR DemoProject.TestCases.BaseClass - TITLE NOT MATCHING -- FAILED
+2021-11-24 12:01:21,792 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 12:03:21,167 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 12:03:23,228 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 12:03:23,251 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 12:03:23,442 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 12:03:23,517 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 12:03:29,645 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 12:03:29,688 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-11-24 12:03:29,693 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-11-24 12:03:29,957 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 12:05:59,721 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 12:06:01,741 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 12:06:01,755 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 12:06:01,924 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 12:06:01,994 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 12:06:08,072 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 12:06:08,098 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-11-24 12:06:08,100 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-11-24 12:06:08,339 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 12:27:39,370 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 12:27:42,908 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 12:27:42,935 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 12:27:43,147 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 12:27:43,247 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 12:27:49,783 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 12:27:49,825 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-11-24 12:27:49,827 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-11-24 12:27:50,567 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 15:29:34,032 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 15:29:35,885 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 15:29:35,908 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 15:29:36,055 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 15:29:36,129 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 15:29:41,813 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 15:29:41,829 [main] ERROR DemoProject.TestCases.BaseClass - TITLE NOT MATCHING -- FAILED
+2021-11-24 15:29:42,508 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-24 15:36:15,439 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-24 15:36:25,338 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-24 15:36:25,347 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-24 15:36:25,494 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-24 15:36:25,557 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-24 15:36:31,468 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-24 15:36:31,493 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-11-24 15:36:31,493 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-11-24 15:36:31,712 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-11-30 10:05:26,316 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-11-30 10:05:28,104 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-11-30 10:05:28,116 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-11-30 10:05:28,296 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-11-30 10:05:28,353 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-11-30 10:05:33,524 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-11-30 10:05:33,552 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-11-30 10:05:33,554 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-11-30 10:05:33,841 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-12-13 13:40:49,837 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-12-13 13:40:51,491 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-12-13 13:40:51,505 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-12-13 13:40:51,668 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-12-13 13:40:51,742 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-12-13 13:40:57,030 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-12-13 13:40:57,040 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-12-13 13:40:57,040 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-12-13 13:40:57,502 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
+2021-12-13 14:22:25,027 [main] INFO DemoProject.TestCases.BaseClass - CHROME BROWSER LAUNCHED
+2021-12-13 14:22:29,943 [main] INFO DemoProject.TestCases.BaseClass - NAVIGATED TO WEBSITE
+2021-12-13 14:22:29,973 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING STARTED
+2021-12-13 14:22:30,195 [main] INFO DemoProject.TestCases.BaseClass - USERNAME ENTERED
+2021-12-13 14:22:30,265 [main] INFO DemoProject.TestCases.BaseClass - PASSWORD ENTERED
+2021-12-13 14:23:26,207 [main] INFO DemoProject.TestCases.BaseClass - LOGIN BUTTON CLICKED
+2021-12-13 14:23:26,260 [main] INFO DemoProject.TestCases.BaseClass - TITLE MATCHED -- PASSED
+2021-12-13 14:23:26,261 [main] INFO DemoProject.TestCases.BaseClass - Tc_LoginTest_001 TESTING FINISHED
+2021-12-13 14:23:26,482 [main] INFO DemoProject.TestCases.BaseClass - BROWSER CLOSED
